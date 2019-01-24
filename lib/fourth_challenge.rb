@@ -28,9 +28,9 @@ def fourth_challenge
           :attitude => "confused"
         },
         {
-          :name => "Mercutio",
-          :age => "178",
-          :attitude => "hot-headed"
+          :name => "Nurse",
+          :age => "44",
+          :attitude => "worries"
         }
       ]
    }
